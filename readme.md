@@ -17,6 +17,5 @@ conda env create -f environment.yaml
 ![img.png](img.png)
 ![img_1.png](img_1.png)
 ![img_2.png](img_2.png)
-![img_3.png](img_3.png)
 ## 5.选择pytest运行test_data_compare.py
-![img_4.png](img_4.png)
+![img_3.png](img_3.png)
