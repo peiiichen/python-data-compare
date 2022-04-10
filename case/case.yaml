@@ -1,0 +1,10 @@
+case1:
+  origin:
+    select nickname from users;
+  current:
+    select nickname from users_copy;
+#case2:
+#  origin:
+#    select email from users;
+#  current:
+#    select email from users_copy;
